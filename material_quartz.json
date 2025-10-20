@@ -1,0 +1,11 @@
+{
+  "name": "Fused Quartz (Typical)",
+  "E_GPa": 72.0,
+  "nu": 0.17,
+  "alpha_1e6_perK": 0.55,
+  "k_W_per_mK": 1.38,
+  "sigma_f_MPa": 50.0,
+  "rho_kg_per_m3": 2200.0,
+  "Cp_J_per_kgK": 740.0,
+  "T_inf_C": 25.0
+}
